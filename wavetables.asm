@@ -1,0 +1,80 @@
+.BANK 1 SLOT 1
+.ORG 0
+.INCBIN "s_sq\tb303_sq_a0_r0.bin"
+.INCBIN "s_sq\tb303_sq_a0_r1.bin"
+.INCBIN "s_sq\tb303_sq_a0_r2.bin"
+.INCBIN "s_sq\tb303_sq_a0_r3.bin"
+.INCBIN "s_sq\tb303_sq_a0_r4.bin"
+.INCBIN "s_sq\tb303_sq_a0_r5.bin"
+.INCBIN "s_sq\tb303_sq_a0_r6.bin"
+.INCBIN "s_sq\tb303_sq_a0_r7.bin"
+.INCBIN "s_sq\tb303_sq_a0_r8.bin"
+.INCBIN "s_sq\tb303_sq_a0_r9.bin"
+.BANK 2 SLOT 1
+.ORG 0
+.INCBIN "s_sq\tb303_sq_a0_r10.bin"
+.INCBIN "s_sq\tb303_sq_a0_r11.bin"
+.INCBIN "s_sq\tb303_sq_a0_r12.bin"
+.INCBIN "s_sq\tb303_sq_a0_r13.bin"
+.INCBIN "s_sq\tb303_sq_a0_r14.bin"
+.INCBIN "s_sq\tb303_sq_a0_r15.bin"
+.INCBIN "s_sq\tb303_sq_a1_r0.bin"
+.INCBIN "s_sq\tb303_sq_a1_r1.bin"
+.INCBIN "s_sq\tb303_sq_a1_r2.bin"
+.INCBIN "s_sq\tb303_sq_a1_r3.bin"
+.BANK 3 SLOT 1
+.ORG 0
+.INCBIN "s_sq\tb303_sq_a1_r4.bin"
+.INCBIN "s_sq\tb303_sq_a1_r5.bin"
+.INCBIN "s_sq\tb303_sq_a1_r6.bin"
+.INCBIN "s_sq\tb303_sq_a1_r7.bin"
+.INCBIN "s_sq\tb303_sq_a1_r8.bin"
+.INCBIN "s_sq\tb303_sq_a1_r9.bin"
+.INCBIN "s_sq\tb303_sq_a1_r10.bin"
+.INCBIN "s_sq\tb303_sq_a1_r11.bin"
+.INCBIN "s_sq\tb303_sq_a1_r12.bin"
+.INCBIN "s_sq\tb303_sq_a1_r13.bin"
+.BANK 4 SLOT 1
+.ORG 0
+.INCBIN "s_sq\tb303_sq_a1_r14.bin"
+.INCBIN "s_sq\tb303_sq_a1_r15.bin"
+.INCBIN "s_sw\tb303_sw_a0_r0.bin"
+.INCBIN "s_sw\tb303_sw_a0_r1.bin"
+.INCBIN "s_sw\tb303_sw_a0_r2.bin"
+.INCBIN "s_sw\tb303_sw_a0_r3.bin"
+.INCBIN "s_sw\tb303_sw_a0_r4.bin"
+.INCBIN "s_sw\tb303_sw_a0_r5.bin"
+.INCBIN "s_sw\tb303_sw_a0_r6.bin"
+.INCBIN "s_sw\tb303_sw_a0_r7.bin"
+.BANK 5 SLOT 1
+.ORG 0
+.INCBIN "s_sw\tb303_sw_a0_r8.bin"
+.INCBIN "s_sw\tb303_sw_a0_r9.bin"
+.INCBIN "s_sw\tb303_sw_a0_r10.bin"
+.INCBIN "s_sw\tb303_sw_a0_r11.bin"
+.INCBIN "s_sw\tb303_sw_a0_r12.bin"
+.INCBIN "s_sw\tb303_sw_a0_r13.bin"
+.INCBIN "s_sw\tb303_sw_a0_r14.bin"
+.INCBIN "s_sw\tb303_sw_a0_r15.bin"
+.INCBIN "s_sw\tb303_sw_a1_r0.bin"
+.INCBIN "s_sw\tb303_sw_a1_r1.bin"
+.BANK 6 SLOT 1
+.ORG 0
+.INCBIN "s_sw\tb303_sw_a1_r2.bin"
+.INCBIN "s_sw\tb303_sw_a1_r3.bin"
+.INCBIN "s_sw\tb303_sw_a1_r4.bin"
+.INCBIN "s_sw\tb303_sw_a1_r5.bin"
+.INCBIN "s_sw\tb303_sw_a1_r6.bin"
+.INCBIN "s_sw\tb303_sw_a1_r7.bin"
+.INCBIN "s_sw\tb303_sw_a1_r8.bin"
+.INCBIN "s_sw\tb303_sw_a1_r9.bin"
+.INCBIN "s_sw\tb303_sw_a1_r10.bin"
+.INCBIN "s_sw\tb303_sw_a1_r11.bin"
+.BANK 7 SLOT 1
+.ORG 0
+.INCBIN "s_sw\tb303_sw_a1_r12.bin"
+.INCBIN "s_sw\tb303_sw_a1_r13.bin"
+.INCBIN "s_sw\tb303_sw_a1_r14.bin"
+.INCBIN "s_sw\tb303_sw_a1_r15.bin"
+
+.INCLUDE "gfx.asm"
