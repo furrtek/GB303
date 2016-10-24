@@ -398,4 +398,4 @@ RAMtoOAM:
   jr     nz,-
   ret
 
-   .INCLUDE "loadtile.asm"
+   .INCLUDE "common\loadtile.asm"

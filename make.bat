@@ -1,4 +1,4 @@
-cd D:\Gameboy\gb303
+cd D:\Gameboy\gb303-pub\trunk
 
 if exist main.gb del main.gb
 if exist main.o del main.o

@@ -77,4 +77,4 @@
 .INCBIN "s_sw\tb303_sw_a1_r14.bin"
 .INCBIN "s_sw\tb303_sw_a1_r15.bin"
 
-.INCLUDE "gfx.asm"
+.INCLUDE "common\gfx.asm"
