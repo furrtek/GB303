@@ -1,8 +1,10 @@
 # Mapper
 
 * Write to $0000~$3FFF:
-| Bit # | 7          | 6 | 5   | 4      | 3           | 2 | 1 | 0
-|       | Unused         | DIN | EE SCK | CHIP SELECT | BANK
+
+| Bit     |   7~6  |  5  |  4  |      3      | 2~0  |
+| ------- | ------ | --- | --- | ----------- | ---- |
+|         | Unused | DIN | SCK | CHIP SELECT | BANK |
 
 Value at reset: $00
 
