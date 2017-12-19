@@ -15,7 +15,7 @@ D0 is DOUT from EEPROM or ADC (depends on CHIP SELECT).
 
 # Details
 
-* U1 is a 128*8kb EEPROM
+* U1 is a 128*8kB EEPROM
 * U2 is the mapper register
 * U3 is actually a 25128 128*8kb SPI EEPROM
 * U4 is used to lock $0000~$3FFF to bank 0
