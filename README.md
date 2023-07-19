@@ -1,7 +1,7 @@
 # GB303 
 GB303 wavetable-based TB-303 style synthesizer for the Nintendo Gameboy.
 
-'''This project is dead.''' Files are provided as-is without any guarantees. Been sold a device that doesn't work ? I don't make them. Ask the seller.
+**This project is dead.** Files are provided as-is without any guarantees. Been sold a device that doesn't work ? I don't make them. Ask the seller.
 
 ![GB303 prototype](img/prot.jpg)
 
